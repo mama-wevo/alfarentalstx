@@ -1,0 +1,44 @@
+
+h1{
+    position: absolute;
+    text-align: center;
+    font-family: cursive;
+    font-size: x-large;
+    transform: translate(-50%, -50%);
+}
+h3{
+    margin-left: 4.5in;
+    margin-right: 4.5in;
+    font-size: x-large;
+}
+.car{
+    position: relative;
+    color: white;
+    align-items: center;
+    margin-bottom: 1in;
+}
+.top{
+    position: absolute;
+    margin-left: 6.5in;
+    text-align: center;
+    font-size: xx-large;
+    font-family: cursive;
+    top: 8px;
+    
+}
+body{
+    color: rgb(252, 248, 248);
+    background-color: #000000;
+    text-align: center;
+    align-items: center;
+    background-size: 100%;
+    background-position-x: center;
+    background-position-y: -50px;
+    background-repeat: no-repeat;
+}
+
+
+
+footer{
+    font-size: x-large;
+}
